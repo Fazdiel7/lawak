@@ -166,7 +166,7 @@ echo $purple "90%"
 sleep 1
 echo $blue "100%"
 sleep 1
-echo $green "Prosessing Done CUK"
+echo $green "Kontol bapak kau berhasil di cabut"
 sleep 1
 echo  $blue "Halah memek $lo kontol $Ngentid"
 fi
