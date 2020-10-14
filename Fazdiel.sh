@@ -11,15 +11,7 @@ cyan='\033[36;1m'
 red='\033[31;1m'
 ungu='\033[1;35m'
 echo " "
-echo  $blue "<|∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆|>"
-echo  $cyan "|       TOOLS HACK satelit-V1        |"
-echo  $red    "|                                    |"
-echo  $red    "| Author        : MR.Ngentod        |"
-echo  $red    "| Contact       : pranata_pasha      |"
-echo  $red    "| My Team    : InDoNeSiA Ngentod cyber |"
-echo  $red    "| Thanks To  : MR.ngentod        |"
-echo  $blue "<|∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆|>"
-sleep 1
+echo  $blue "Ngapa? Gak suka ? PC bosss"
 echo " "
 echo $green "============== $red MENU HACK $green ================="
 echo $blue "===================================="
